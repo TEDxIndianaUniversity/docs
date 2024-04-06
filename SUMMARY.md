@@ -10,6 +10,6 @@
 ## 🎨 Production
 
 * [🏠 Staging](production/staging/README.md)
-  * [🤖 Digital Mockups](production/staging/digital-mockups.md)
+  * [🤔 Ideate & Design Staging](production/staging/ideate-and-design-staging.md)
   * [🔨 Where to Make Staging](production/staging/where-to-make-staging.md)
 * [💻 Web Development](production/web-development.md)
