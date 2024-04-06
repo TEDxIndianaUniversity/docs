@@ -14,7 +14,7 @@ We utilise Bitwarden as our Password Manager, which has extensions for most majo
 
 This is a great question! And this depends on whether you're a general member or a director. General members should ask their director for the information to gain access to the password manager. Directors should have received the information from the previous directors. If you haven't, be sure to talk with the president to get you that information.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 For security purposes, we don't publish the endpoint or login information of our password manager on this site.
 {% endhint %}
 

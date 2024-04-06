@@ -7,15 +7,21 @@
 * [🔑 Password Manager](onboarding/password-manager.md)
 * [About TEDx](onboarding/about-tedx.md)
 
-## 🎨 Production
+## 🎭 Theatrical
 
-* [🏠 Staging](production/staging/README.md)
-  * [🤔 Ideate & Design Staging](production/staging/ideate-and-design-staging.md)
-  * [🏛️ Making a Model](production/staging/making-a-model.md)
-  * [🔨 Where to Make Staging](production/staging/where-to-make-staging.md)
-* [📽️ Projection Mappping](production/projection-mappping.md)
-* [💻 Web Development](production/web-development.md)
+* [🏠 Staging](theatrical/staging/README.md)
+  * [🤔 Ideate & Design Staging](theatrical/staging/ideate-and-design-staging.md)
+  * [🏛️ Making a Model](theatrical/staging/making-a-model.md)
+  * [🔨 Where to Make Staging](theatrical/staging/where-to-make-staging.md)
+* [📽️ Projection Mappping](theatrical/projection-mappping.md)
 
 ## 🎟️ Promotion & Marketing
 
-* [Page 1](promotion-and-marketing/page-1.md)
+* [📧 Emailing List](promotion-and-marketing/emailing-list/README.md)
+  * [📝 Designing an HTML Email](promotion-and-marketing/emailing-list/designing-an-html-email.md)
+  * [🎨 Coding HTML Email](promotion-and-marketing/emailing-list/coding-html-email.md)
+  * [📤 Sending an Email to the TEDx Emailing List](promotion-and-marketing/emailing-list/sending-an-email-to-the-tedx-emailing-list.md)
+
+## 💻 Technical
+
+* [🔗 Web Development](technical/web-development.md)
