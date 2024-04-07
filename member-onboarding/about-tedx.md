@@ -1,4 +1,6 @@
-# About TEDx
+# ⁉️ About TEDx
+
+## Org Structure
 
 ```mermaid fullWidth="true"
 

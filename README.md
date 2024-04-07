@@ -1,10 +1,14 @@
-# 💡 About the Wiki
+# 👋 Welcome!
 
 Welcome to our wiki! This is where you'll find a plethora of information about TEDxIndianaUniversity, promoting not only generational knowledge but also _ideas worth spreading_!
 
-## Categories
+## New Here?
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="broken-reference">Broken link</a></td></tr><tr><td><a href="broken-reference">Broken link</a></td></tr><tr><td><a href="broken-reference">Broken link</a></td></tr><tr><td><a href="broken-reference">Broken link</a></td></tr><tr><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="member-onboarding/">member-onboarding</a></td></tr><tr><td><a href="speaker-onboarding.md">speaker-onboarding.md</a></td></tr></tbody></table>
+
+## Team Resources
+
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="promotional/">promotional</a></td></tr><tr><td><a href="theatrical/">theatrical</a></td></tr><tr><td><a href="digital/">digital</a></td></tr></tbody></table>
 
 ## How do I use the wiki?
 
