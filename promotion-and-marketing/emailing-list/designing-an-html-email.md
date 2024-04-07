@@ -6,7 +6,7 @@ Generally, this is done by the Design & Promotion team
 
 ## Overview
 
-Designing an email works a lot like designing a poster... it should be visually appealing,&#x20;
+Designing an email works a lot like designing a poster... it should be visually appealing, contain all the content a person might need, and be brief enough to fit their attention span. When you're designing this email, feel free to hand sketch or use a design tool [like Figma](https://figma.com/).&#x20;
 
 
 
