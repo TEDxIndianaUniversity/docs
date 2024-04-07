@@ -26,7 +26,9 @@
 
 ## 💻 Technical
 
-* [🔗 Web Development](production/web-development.md)
+* [🔗 Web Development](technical/web-development/README.md)
+  * [🎨 Custom CSS](technical/web-development/custom-css.md)
+  * [🧠 Custom HTML Elements](technical/web-development/custom-html-elements.md)
 
 ## 🎤 Speaker Info
 
