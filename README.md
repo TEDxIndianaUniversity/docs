@@ -4,11 +4,11 @@ Welcome to our wiki! This is where you'll find a plethora of information about T
 
 ## New Here?
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="member-onboarding/">member-onboarding</a></td></tr><tr><td><a href="speaker-onboarding.md">speaker-onboarding.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="member-resources/">member-resources</a></td></tr><tr><td><a href="speaker-resources.md">speaker-resources.md</a></td></tr></tbody></table>
 
 ## Team Resources
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="promotional/">promotional</a></td></tr><tr><td><a href="theatrical/">theatrical</a></td></tr><tr><td><a href="digital/">digital</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="promotional/">promotional</a></td></tr><tr><td><a href="theatrical/">theatrical</a></td></tr><tr><td><a href="digital/">digital</a></td></tr><tr><td><a href="curation.md">curation.md</a></td></tr><tr><td><a href="operations.md">operations.md</a></td></tr><tr><td><a href="membership.md">membership.md</a></td></tr><tr><td><a href="engagement.md">engagement.md</a></td></tr></tbody></table>
 
 ## How do I use the wiki?
 
@@ -26,4 +26,4 @@ To contribute to our wiki, you'll need to be a part of TEDxIndianaUniversity and
 
 
 
-[^1]: If you don't know how to do this, check our our [Password Manager entry](member-onboarding/our-accounts/password-manager.md).
+[^1]: If you don't know how to do this, check our our [Password Manager entry](member-resources/our-accounts/password-manager.md).
