@@ -24,5 +24,6 @@
     * [🧠 Custom HTML Elements](digital/web-development/custom-html-elements.md)
 * [💡 Curation](curation.md)
 * [📐 Operations](operations.md)
+* [💲 Finance](finance.md)
 * [🥳 Membership](membership.md)
 * [😎 Engagement](engagement.md)
