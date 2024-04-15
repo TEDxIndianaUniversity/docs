@@ -8,7 +8,7 @@ Welcome to our wiki! This is where you'll find a plethora of information about T
 
 ## Team Resources
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="promotional/">promotional</a></td></tr><tr><td><a href="theatrical/">theatrical</a></td></tr><tr><td><a href="digital/">digital</a></td></tr><tr><td><a href="curation.md">curation.md</a></td></tr><tr><td><a href="operations.md">operations.md</a></td></tr><tr><td><a href="membership.md">membership.md</a></td></tr><tr><td><a href="engagement.md">engagement.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="marketing/">marketing</a></td></tr><tr><td><a href="theatrical/">theatrical</a></td></tr><tr><td><a href="digital/">digital</a></td></tr><tr><td><a href="curation.md">curation.md</a></td></tr><tr><td><a href="operations.md">operations.md</a></td></tr><tr><td><a href="membership.md">membership.md</a></td></tr><tr><td><a href="engagement.md">engagement.md</a></td></tr></tbody></table>
 
 ## How do I use the wiki?
 
