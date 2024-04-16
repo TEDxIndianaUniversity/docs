@@ -1,6 +1,6 @@
 # 👋 Welcome!
 
-Welcome to our wiki! This is where you'll find a plethora of information about TEDxIndianaUniversity, promoting not only generational knowledge but also _ideas worth spreading_!
+Welcome to our Knowledge Base! This is where you'll find a plethora of information about TEDxIndianaUniversity, promoting not only generational knowledge but also _ideas worth spreading_!
 
 ## New Here?
 
