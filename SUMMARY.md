@@ -6,7 +6,6 @@
   * [👥 Passwords](member-resources/passwords/README.md)
     * [🔗 Invite Links](member-resources/passwords/invite-links.md)
     * [🔑 Password Manager](member-resources/passwords/password-manager.md)
-* [🎤 Speaker Resources](speaker-resources.md)
 * [🎟️ Marketing](marketing/README.md)
   * [📧 Emailing List](marketing/emailing-list/README.md)
     * [📝 Designing an HTML Email](marketing/emailing-list/designing-an-html-email.md)
