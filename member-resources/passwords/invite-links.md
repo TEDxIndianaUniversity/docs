@@ -8,4 +8,6 @@ To access our invite links, [_**visit this document**_](https://indiana.sharepoi
 
 1. Figma
 2. Canva
+3. Adobe Asset Library
+4. Miro
 
