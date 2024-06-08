@@ -12,7 +12,7 @@ Welcome to our Knowledge Base! This is where you'll find a plethora of informati
 
 ## How do I use the wiki?
 
-You can either manually look for pages using the side panel or search the wiki using the search bar.&#x20;
+You can either manually look for pages using the side panel or search the wiki using the search bar. You can also use natural language to ask questions in the search bar. We have a silly little AI robot who will attempt to summarise things for you and give you a link to the page with the info :)
 
 {% hint style="info" %}
 You can quickly jump to the search bar by pressing **⌘ + K** (macOS) or **Ctrl + K** (Windows)
