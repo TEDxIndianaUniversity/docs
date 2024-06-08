@@ -1,7 +1,7 @@
 # 📝 Designing an HTML Email
 
 {% hint style="info" %}
-Generally, this is done by the Design & Promotion team
+Generally, this is done by the Markting & Design team
 {% endhint %}
 
 ## Overview
