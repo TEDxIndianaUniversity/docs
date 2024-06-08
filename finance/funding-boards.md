@@ -2,6 +2,7 @@
 
 ## IUFB (Indiana University Funding Board)
 
+* First week of october- theme decided, interpretation figured out+# of speakers
 * I enjoyed working with IUFB this year!
 * They gave us $20,000 in total this year! Woohoo!!
 * Everyone kept telling me how easy IUFB related things were but no one actually told me what to do, so here’s my guide for you
@@ -58,7 +59,37 @@
   * Either someone on curation volunteers to work with this professor, or the director will sort of just assign someone to this person
 * In case anyone chooses to read this in the future, we didn’t get funding from OVPR during the 2023-2024, but hopefully they’ll partner again with us in the future
 
-***
+## HHC (Hutton Honors College Funding Board)
 
-add this \[VM1]
+* They gave us $5,000 in the 2023-2024 year!
+* Their application is crazy long and asks for very specific information
+* They care about what we will do for Hutton Honors College kids
+* This is how someone at IUFB explained how to get money from them
+  * ISA (Indian Student Association) has events like Diwali and Holi. At these events they have food. They give Hutton Honors students (who get their tickets from the HHC building) different colored wristbands. The people with these special wristbands get their food before anyone else. Because this prioritises honors students, HHC is more likely to fund it
+* The application I submitted this year can be found in [Teams → Finance → Files → Funding → Hutton Honors → FINAL – Play or Pause](https://indiana.sharepoint.com/:f:/r/sites/O365-TEDxI/Shared%20Documents/Finance/Funding/Hutton%20Honors/FINAL%20-%20Play%20or%20Pause?csf=1\&web=1\&e=SDlCor) → Starting with “TEDxIndianaUniversity”
+  * The email chain between the TEDx email and HHCFB can be found in the same folder but is labeled “HHC Funding Email Chain”
+* Normally you have to pitch to them at one of their meetings, I somehow escaped this because I submitted it the week they have their Thanksgiving break
+  * HHC is notoriously known for making people cry
+  * Saniya is allegedly super close with the Dean of HHC so maybe you can lean into this if you ever do have to pitch to them!
+* HHC is extremely stringent about the budget you submit to them
+  * They will verify all of your numbers
+  * If you’re every debating between a range of numbers, submit the lower end of the range to them
+  * Make sure you list every line item as broken down as possible
+    * Instead of saying “marketing expenses” break it down into “flyer expense, social media expense, etc.”
+* As part of this application, I had to submit confirmation by “IU Events Management”
+  * IU Events Management basically ensures that events for IU students off-campus (held by on-campus organizations) are safe and have proper evacuation plans
+  * To find where to submit this form go to [One.IU → Search “Event Management” → Click the “Events & Conference Requests” Tile](https://one.iu.edu/launch-task/iu/events-conference-request?terms=Events%20%26%20Conference%20Requests) (it should say “Fire Form” underneath)
+    * Filling out this form will require a safety plan from BCT (or the theater you’re using)
+    * I’ll leave the document the BCT gave us this year in Teams o Once you’ve been approved, copy-paste the confirmation email you get from IU Events Management into the appropriate field in the HHC application
+
+### RHA (Residence Hall Association)
+
+* We received $2,000 from them during the 2023-2024 year (this is the max they give out!)
+* There is no funding pitch/presentation for them, just an application
+* They have a schedule that they put on their website, try to submit the application 1.5-2 weeks before the meeting date you want them to look at your application
+* Interestingly, of all the funding boards, RHA was the fastest to look at what I sent and get back to me with a response
+  * They must have done it all within 2 weeks which is astounding for an IU organization
+* See the “Work Distribution” section in the “Team Considerations” page for further information
+
+
 
