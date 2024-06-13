@@ -69,7 +69,6 @@
 * The application I submitted this year can be found in [Teams → Finance → Files → Funding → Hutton Honors → FINAL – Play or Pause](https://indiana.sharepoint.com/:f:/r/sites/O365-TEDxI/Shared%20Documents/Finance/Funding/Hutton%20Honors/FINAL%20-%20Play%20or%20Pause?csf=1\&web=1\&e=SDlCor) → Starting with “TEDxIndianaUniversity”
   * The email chain between the TEDx email and HHCFB can be found in the same folder but is labeled “HHC Funding Email Chain”
 * Normally you have to pitch to them at one of their meetings, I somehow escaped this because I submitted it the week they have their Thanksgiving break
-  * HHC is notoriously known for making people cry
   * Saniya is allegedly super close with the Dean of HHC so maybe you can lean into this if you ever do have to pitch to them!
 * HHC is extremely stringent about the budget you submit to them
   * They will verify all of your numbers
