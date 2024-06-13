@@ -6,6 +6,7 @@
   * [👥 Passwords](member-resources/passwords/README.md)
     * [🔗 Invite Links](member-resources/passwords/invite-links.md)
     * [🔑 Password Manager](member-resources/passwords/password-manager.md)
+    * [2️⃣ Two-Factor Authentication (2FA)](member-resources/passwords/two-factor-authentication-2fa.md)
 * [🎟️ Marketing](marketing/README.md)
   * [📧 Emailing List](marketing/emailing-list/README.md)
     * [📝 Designing an HTML Email](marketing/emailing-list/designing-an-html-email.md)
