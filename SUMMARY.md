@@ -24,6 +24,7 @@
   * [🔗 Web Development](digital/web-development/README.md)
     * [🎨 Custom CSS](digital/web-development/custom-css.md)
     * [🧠 Custom HTML Elements](digital/web-development/custom-html-elements.md)
+  * [🔓 Data Compliance](digital/data-compliance.md)
 * [💡 Curation](curation.md)
 * [📐 Operations](operations.md)
 * [💲 Finance](finance.md)
