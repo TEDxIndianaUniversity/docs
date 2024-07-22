@@ -44,3 +44,4 @@
     * [🤡 Miscellaneous](team-resources/finance/miscellaneous.md)
   * [🥳 Membership](team-resources/membership.md)
   * [😎 Engagement](team-resources/engagement.md)
+* [🎤 Speaker Resources](https://speaker.tedxiu.com)
