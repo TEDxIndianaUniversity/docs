@@ -8,7 +8,7 @@ Looking for our main website? [Visit tedxiu.com](https://www.tedxiu.com) :)
 
 ## New Here?
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="member-resources/">member-resources</a></td></tr><tr><td><a href="https://app.gitbook.com/o/7YXIdPMvc8dgE7MfEfpe/s/tCiaJkmdXjI1rcT80tcF/">Speaker Resources</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="about-tedx/get-involved.md">get-involved.md</a></td></tr><tr><td><a href="member-resources/">member-resources</a></td></tr><tr><td><a href="https://app.gitbook.com/o/7YXIdPMvc8dgE7MfEfpe/s/tCiaJkmdXjI1rcT80tcF/">Speaker Resources</a></td></tr></tbody></table>
 
 ## Team Resources
 
