@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 Welcome to our Knowledge Base!](README.md)
 * [⁉️ About TEDx](about-tedx/README.md)
   * [💜 Get Involved!](about-tedx/get-involved.md)
 * [🧙 Member Resources](member-resources/README.md)

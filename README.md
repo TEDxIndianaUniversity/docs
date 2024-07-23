@@ -1,6 +1,6 @@
-# 👋 Welcome!
+# 👋 Welcome to our Knowledge Base!
 
-Welcome to our Knowledge Base! This is where you'll find a plethora of information about TEDxIndianaUniversity, promoting not only generational knowledge but also _ideas worth spreading_!
+This is where you'll find a plethora of information about TEDxIndianaUniversity, promoting not only generational knowledge but also _ideas worth spreading_!
 
 {% hint style="info" %}
 Looking for our main website? [Visit tedxiu.com](https://www.tedxiu.com) :)
