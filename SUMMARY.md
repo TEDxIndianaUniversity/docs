@@ -23,6 +23,7 @@
       * [🤔 Ideate & Design Staging](team-resources/theatrical/staging/ideate-and-design-staging.md)
       * [🏛️ Making a Model](team-resources/theatrical/staging/making-a-model.md)
       * [🔨 Where to Make Staging](team-resources/theatrical/staging/where-to-make-staging.md)
+    * [📹 Videography](team-resources/theatrical/videography.md)
     * [📽️ Projection Mappping](team-resources/theatrical/projection-mappping.md)
   * [💻 Digital](team-resources/digital/README.md)
     * [🔗 Web Development](team-resources/digital/web-development/README.md)
