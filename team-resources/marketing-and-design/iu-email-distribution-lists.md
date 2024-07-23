@@ -1,2 +1,0 @@
-# 📤 IU Email Distribution Lists
-
