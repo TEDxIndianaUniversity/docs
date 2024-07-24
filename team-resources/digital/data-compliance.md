@@ -29,3 +29,14 @@ We also process some University Restricted Data. This data in no means should le
 ## University Critical Data
 
 Although unlikely, it is possible that we may process or store University Critical Data, such as passport or visa information, state ID information, or credit card information. [Learn more about what is considered Critical Data](https://datamanagement.iu.edu/data-classifications/critical-data/index.html). Like Restricted data, you **MUST COMPLY** with [protective measures in Microsoft365](https://kb.iu.edu/d/bgfb). If the data isn't something you'd normally give out to a friend, it is likely Critical data; always check the [Data Sharing and Handling tool](https://datamanagement.iu.edu/tools/dsh.html) to ensure you understand your obligations. Additionally, per TEDxIndianaUniversity policy, you must name folders with Critical data in this convention: `TEDxCRITICAL-{topic/name}`such as `TEDxCRITICAL-SpeakerVisa`. You are also required to monitor and strengthen access controls to permit the minimum number of parties required. If you are finished with the data, delete the information... and then delete it from the trash or recycle permanently. For Critical data, avoid using traditional email or messaging for sharing or collecting the files. Instead, consider using [IU Secure Share](https://kb.iu.edu/d/bhuz).
+
+{% hint style="danger" %}
+Microsoft Storage at IU is approved for PHI/critical data classifications with a few notable exceptions below.
+
+NOT approved for:
+
+* Credit card and Payment Card Industry (PCI) data
+* Export controlled research data
+* Controlled Unclassified Information (CUI)
+* Advancement donor gift agreements and wealth information
+{% endhint %}
