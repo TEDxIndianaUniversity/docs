@@ -1,6 +1,18 @@
 # ↔️ Transition to IU CRM
 
+## Training Requirements
 
+<details>
+
+<summary>Requesting User Access</summary>
+
+You can use the [User Access Request Form](https://crm.iu.edu/adopt/user-access.html) to request access to the MC Training Business Unit: _UA-CRM-TRAIN._
+
+More detailed information is available in the [Access Levels](https://salesforce.studios.iu.edu/about/access-levels.html) section of the Salesforce Marketing Cloud User Guide.
+
+
+
+</details>
 
 <details>
 
