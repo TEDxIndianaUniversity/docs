@@ -13,6 +13,7 @@
     * [📤 IU Email Lists, Newsletters](team-resources/marketing-and-design/iu-email-lists-newsletters.md)
     * [📅 Event Calendars](team-resources/marketing-and-design/event-calendars.md)
     * [📧 Emailing List](team-resources/marketing-and-design/emailing-list/README.md)
+      * [↔️ Transition to IU CRM](team-resources/marketing-and-design/emailing-list/transition-to-iu-crm.md)
       * [📝 Designing an HTML Email](team-resources/marketing-and-design/emailing-list/designing-an-html-email.md)
       * [🎨 Coding HTML Email](team-resources/marketing-and-design/emailing-list/coding-html-email.md)
       * [📤 Sending an Email to the TEDx Emailing List](team-resources/marketing-and-design/emailing-list/sending-an-email-to-the-tedx-emailing-list.md)
