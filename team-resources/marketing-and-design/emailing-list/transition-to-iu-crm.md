@@ -1,6 +1,6 @@
 # ↔️ Transition to IU CRM
 
-## Training Requirements
+## Pre-Training Requirements
 
 <details>
 
@@ -16,7 +16,7 @@ More detailed information is available in the [Access Levels](https://salesforce
 
 <details>
 
-<summary>Required Trainings</summary>
+<summary>Required Compliance Agreements</summary>
 
 ### [Acceptable Use Agreement](https://access.iu.edu/useragreement/hasagreement) <a href="#acceptable-use-agreement" id="acceptable-use-agreement"></a>
 
@@ -40,3 +40,14 @@ Required for all users who access Covid Response data.
 
 </details>
 
+## Training Requirement
+
+<details>
+
+<summary>CRM &#x26; Marketing Cloud Training</summary>
+
+Sign up for training and get started: [https://salesforce.studios.iu.edu/training/index.html](https://salesforce.studios.iu.edu/training/index.html)\
+\
+If you successfully complete Level 1 and 2 of training and would like to expand your access to Level 2, fill out an updated user access request. If you'd like to send emails and / or add data, you'll need Level 2 access. Level 1 access is appropriate if you just want to view analytics and build emails.
+
+</details>
