@@ -7,5 +7,5 @@ To access different TEDxIndianaUniversity accounts and websites, you'll either n
 
 For some accounts, you will also need a two-factor authentication OTP secret.
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="password-manager.md">password-manager.md</a></td><td></td></tr><tr><td><a href="invite-links.md">invite-links.md</a></td><td></td></tr><tr><td><a href="two-factor-authentication-2fa.md">two-factor-authentication-2fa.md</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/s/yJWKeOhEbVhZH3NegfrX/passwords/password-manager">Password Manager</a></td><td></td></tr><tr><td><a href="invite-links.md">invite-links.md</a></td><td></td></tr><tr><td><a href="two-factor-authentication-2fa.md">two-factor-authentication-2fa.md</a></td><td></td></tr></tbody></table>
 
