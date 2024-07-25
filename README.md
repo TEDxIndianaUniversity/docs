@@ -30,4 +30,4 @@ To contribute to our wiki, you'll need to be a part of TEDxIndianaUniversity and
 
 
 
-[^1]: If you don't know how to do this, check our our [Password Manager entry](member-resources/passwords/password-manager.md).
+[^1]: If you don't know how to do this, check our our [Password Manager entry](broken-reference).
