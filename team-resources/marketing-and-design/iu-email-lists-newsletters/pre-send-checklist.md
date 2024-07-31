@@ -1,4 +1,8 @@
-# Pre-Send Checklist!
+# ✅ Pre-Send Checklist!
+
+{% hint style="info" %}
+Shamelessly borrowed from the IU Marketing Cloud Training Part 2
+{% endhint %}
 
 ### Your guide to avoiding email errors
 
