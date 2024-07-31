@@ -23,7 +23,7 @@ Everyone makes mistakes. But following these steps before sending will help you 
 
 #### Audience data
 
-* Approval from appropriate data steward(s) obtained
+* Approval from [appropriate data steward(s) ](https://salesforce.ucm.iu.edu/managing-data/data-approvals/approvals-bl.html)obtained
 * Data extension contains all necessary data fields (columns)
 * Data uploaded to data extension is from an accurate source and contains only the intended target audience, checked by examining:
   * Total records matches expected number; if unsure, verify with data source or subject matter expert&#x20;
