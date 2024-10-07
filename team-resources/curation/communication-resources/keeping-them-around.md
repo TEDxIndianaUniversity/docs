@@ -1,3 +1,7 @@
+---
+description: Make sure to CC samthant@iu.edu!
+---
+
 # Keeping-them-around
 
 **Subject:** Follow-Up on TEDxIndianaUniversity Speaker Opportunity
