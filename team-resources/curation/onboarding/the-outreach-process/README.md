@@ -5,9 +5,10 @@ As part of Phase 2, you will be reaching out a minimum of 15 speakers\* each wee
 <mark style="background-color:yellow;">**What it will look like:**</mark>
 
 1. Research potential speakers. Check what's happening in our community, explore what's interesting to you, look for ideas worth spreading.
-2. Every time you find a speaker, send them an email/LinkedIn message/any other professional medium with [this email template](../../communication-resources/).  (remember, you don't have to think they'd be perfect to give a TEDx Talk -- you are simply exploring and getting to know them before you actually select a speaker).
+2. Every time you find a speaker, send them an email/LinkedIn message/any other professional medium with [this email template](../../communication-resources/).  (remember, you don't have to think they'd be perfect to give a TEDx Talk -- you are simply exploring and getting to know them before you actually select a speaker).&#x20;
 3. Update your [speaker tracker](https://indiana.sharepoint.com/:x:/r/sites/O365-TEDxI/Shared%20Documents/Curation/Resources/Trackers/Outreach%20Tracker.xlsx?d=w47fdeaf1e03b49589d60ceb35281ebbe\&csf=1\&web=1\&e=9sw1Bk) with their information.&#x20;
-4. Schedule a call with them and get to know them. Ask them about their life experiences, stories, and what they would want to give a potential talk about.&#x20;
+4. Did you hear back? CC me with their response. If they declined invitation, send them a thank you note using the second template [here.](../../communication-resources/post-invitation.md)
+5. Schedule a call with them using the first email from [this template](../../communication-resources/post-invitation.md) and get to know them. Ask them about their life experiences, stories, and what they would want to give a potential talk about.
 
 {% hint style="info" %}
 To guide your call, you can ask these questions:

@@ -48,6 +48,7 @@
       * [Keeping-them-around](team-resources/curation/communication-resources/keeping-them-around.md)
       * [Declining Speaker After Call](team-resources/curation/communication-resources/declining-speaker-after-call.md)
       * [Official Invitation Email](team-resources/curation/communication-resources/official-invitation-email.md)
+      * [Post-Invitation](team-resources/curation/communication-resources/post-invitation.md)
   * [📐 Operations](team-resources/operations/README.md)
     * [✅ Room Reservations](team-resources/operations/room-reservations.md)
   * [💲 Finance](team-resources/finance/README.md)
