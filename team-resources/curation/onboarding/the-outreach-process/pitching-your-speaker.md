@@ -10,7 +10,7 @@ Awesome! I (and the rest of exec) are super excited to hear about your speaker. 
 
 ## Exec Approved:&#x20;
 
-Congratulations, we are so excited for you to get started with talk development. Before that, send them an official invitation email using [this template.](../../communication-resources/official-invitation-email.md)
+Congratulations, we are so excited for you to get started with talk development. Before that, send them an official invitation email using [this template.](https://docs.google.com/document/d/1IJvOWfn3vwh5xCA617b83frXYfcrC6OkoNHwX8uWwvc/edit#heading=h.9rnyqpjtrh1m)
 
 ## Exec Denied:&#x20;
 
