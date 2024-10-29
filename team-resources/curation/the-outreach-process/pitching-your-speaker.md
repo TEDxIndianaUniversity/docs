@@ -6,7 +6,11 @@ description: >-
 
 # Pitching Your Speaker
 
-Awesome! I (and the rest of exec) are super excited to hear about your speaker. Before we can finalize on your speaker, you will have to fill out [this speaker pitch document. ](https://indiana.sharepoint.com/:w:/r/sites/O365-TEDxI/Shared%20Documents/Curation/Outreach/Pitch.docx?d=w50dd1b0fcc194a3fba5efcbe575d1ee9\&csf=1\&web=1\&e=cHqXua)Please keep it under 2 pages and be as elaborate and comprehensive as you can -- thoughts, assumptions, helpful links/videos/documents, reservations.
+Awesome! I (and the rest of exec) are super excited to hear about your speaker. Before we can finalize on your speaker, you will have to fill out[ this speaker pitch document. ](https://indiana.sharepoint.com/:w:/r/sites/O365-TEDxI/Shared%20Documents/Curation/Outreach/Speaker%20Selection%20Questionnaire.docx?d=w363d8c78e7a04ebca704fbab189621a9\&csf=1\&web=1\&e=CyHVLU)Be as comprehensive as you can -- thoughts, assumptions, helpful links/videos/documents, reservations.&#x20;
+
+{% hint style="info" %}
+You should have met this speaker **at** **least twice** before you begin filling out the pitch document.
+{% endhint %}
 
 ## Exec Approved:&#x20;
 
