@@ -14,7 +14,11 @@ You should have met this speaker **at** **least twice** before you begin filling
 
 ## Exec Approved:&#x20;
 
-Congratulations, we are so excited for you to get started with talk development. Before that, send them an official invitation email using [this template.](https://docs.google.com/document/d/1IJvOWfn3vwh5xCA617b83frXYfcrC6OkoNHwX8uWwvc/edit#heading=h.9rnyqpjtrh1m)
+Congratulations, we are so excited for you to get started with talk development. Before that, send them an official invitation email using [this template.](https://docs.google.com/document/d/1IJvOWfn3vwh5xCA617b83frXYfcrC6OkoNHwX8uWwvc/edit#heading=h.9rnyqpjtrh1m)&#x20;
+
+The Director of Curation will handle **official communications** following this approval, including the delivery of speaker info packet, logistics forms, content agreement forms, pre-conference brief documents, etc. Your Director will CC you on all official emails as well.&#x20;
+
+However, once these forms have been sent out to your speaker, it is **your responsibility** to ensure that you're following up on them to ensure that they send all packets back to us by **December 15, 11:59 PM.**&#x20;
 
 ## Exec Denied:&#x20;
 

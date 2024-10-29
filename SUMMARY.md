@@ -49,6 +49,7 @@
         * [Declining Speaker After Call](team-resources/curation/the-outreach-process/communication-resources/declining-speaker-after-call.md)
         * [Official Invitation Email](team-resources/curation/the-outreach-process/communication-resources/official-invitation-email.md)
         * [Post-Invitation](team-resources/curation/the-outreach-process/communication-resources/post-invitation.md)
+    * [📝 The Pre-Conference Process](team-resources/curation/the-pre-conference-process.md)
   * [📐 Operations](team-resources/operations/README.md)
     * [✅ Room Reservations](team-resources/operations/room-reservations.md)
   * [💲 Finance](team-resources/finance/README.md)
