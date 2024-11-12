@@ -12,7 +12,7 @@ Want to mess around on your own? Want to follow a tutorial? You can do so on our
 
 ## Tutorial Videos
 
-The embed below starts at video 1; _**however,**_ I recommend you start at video 8: "Challege 1: Set up your first section with Wix Studio" and watch all of them through video 16... or until the end of the playlist if you have time.
+The embed below starts at video 1; _**however,**_ I recommend you start at video 8: "Challege 1: Set up your first section with Wix Studio." You can change which video you're on using the playlist icon in the upper righthand corner. Continue watching  through video 16... or until the end of the playlist if you have time.
 
 {% embed url="https://www.youtube.com/playlist?list=PL_cmY_O5uxGxeVrmOg9k6FpawXY0ROSep" %}
 
