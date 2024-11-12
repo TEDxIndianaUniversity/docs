@@ -4,6 +4,10 @@ icon: pen-swirl
 
 # UX Sketching
 
+## What is UX Sketching?
+
+Rather than wasting a lot of time coding, recoding, and then recoding a site with every design change that needs to happen, we UX sketch (User Experience Sketch) sites quickly and get ideas out on physical paper. We can easily modify our ideas when they're on a sheet of paper, which makes it perfect for the beginning phases of design. _So we keep sketching! Over and over!_ Once we're completely happy with our ideas, _**only then**_ will we start transferring them to a digital form.
+
 <div data-full-width="false">
 
 <figure><img src="../../../.gitbook/assets/image.png" alt="" width="368"><figcaption><p>An example of UX Sketching</p></figcaption></figure>
