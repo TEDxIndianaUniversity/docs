@@ -8,11 +8,17 @@ At a Salon, attendees watch TED Talks, sometimes host a few speakers (though itâ
 
 {% embed url="https://blog.ted.com/tedx-salon-events-form-the-backbone-of-tedx-communities/" %}
 
+***
+
 ## Salon Expectations
 
-{% file src="../../.gitbook/assets/Salon Expectations.pdf" %}
+What is expected of you at a Salon? Here's all your questions answered.... possibly by more questions. The goal is that you should be able to answer most of them:
 
+{% file src="../.gitbook/assets/Salon Expectations.pdf" %}
 
+You should also be sure to follow [TEDx Guidelines](https://www.ted.com/participate/organize-a-local-tedx-event) during whatever event you may hosting.
+
+***
 
 ## Reasons for Salon Events
 
