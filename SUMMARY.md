@@ -29,6 +29,7 @@
     * [📽️ Projection Mappping](team-resources/theatrical/projection-mappping.md)
   * [💻 Digital](team-resources/digital/README.md)
     * [🔗 Web Development](team-resources/digital/web-development/README.md)
+      * [UX Sketching](team-resources/digital/web-development/ux-sketching.md)
       * [Getting Started with Wix Studio](team-resources/digital/web-development/getting-started-with-wix-studio.md)
     * [🔓 Data Compliance](team-resources/digital/data-compliance.md)
     * [🔠 Anagram (TEDxIU UI)](team-resources/digital/anagram-tedxiu-ui/README.md)
