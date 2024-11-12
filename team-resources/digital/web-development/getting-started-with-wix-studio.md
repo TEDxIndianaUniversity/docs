@@ -6,7 +6,7 @@ icon: wix
 
 ## Learn without Editing the Main Site
 
-Want to mess around on your own? Want to follow a tutorial? You can do so on our [_**Playground Site**_](https://manage.wix.com/dashboard/8ada366d-6fbd-4d0e-9806-3ed782f61264/home?referralInfo=sidebar)_**... just create a new page!**_ This site doesn't change our main website, so it's full fun and no consequences! (Gasp.)
+Want to mess around on your own? Want to follow a tutorial? You can do so on our [_**Playground Site**_](https://manage.wix.com/dashboard/8ada366d-6fbd-4d0e-9806-3ed782f61264/home?referralInfo=sidebar)_**... just click "Edit Site" and create a new page!**_ This site doesn't change our main website, so it's full fun and no consequences! (Gasp.)
 
 ***
 
