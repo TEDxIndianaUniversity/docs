@@ -17,7 +17,7 @@ icon: pen-swirl
     * These sketches take a few minutes MAX. No one is creating a masterpiece in that time.
     * If you're thinking about colours and fonts, walk to the other end of the room and come back. Those thoughts aren't welcome here.
     * If you're spending time making things "look good," you aren't spending time sketching new ideas.
-  * Spend a few minutes and aimlessly draw something that has no meaning
+  * Spend a few minutes aimlessly drawing something that has no meaning
     * Start a timer for 3-5 minutes
     * Take a sheet of paper and a marker and scribble around.
     * Can you cover the paper with ink without intersecting any of the lines?
