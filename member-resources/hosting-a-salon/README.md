@@ -8,6 +8,12 @@ At a Salon, attendees watch TED Talks, sometimes host a few speakers (though itâ
 
 {% embed url="https://blog.ted.com/tedx-salon-events-form-the-backbone-of-tedx-communities/" %}
 
+## Salon Expectations
+
+{% file src="../../.gitbook/assets/Salon Expectations.pdf" %}
+
+
+
 ## Reasons for Salon Events
 
 * **The discussion:** A critical element of salon is lively discussions, allowing attendees to actively participate in the event. With much smaller audiences than a standard TEDx event, salons bring attendees together in more intimate spaces, and with more chances to get know and exchange ideas as with each other.
