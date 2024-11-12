@@ -4,6 +4,12 @@ icon: pen-swirl
 
 # UX Sketching
 
+<div data-full-width="false">
+
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="368"><figcaption><p>An example of UX Sketching</p></figcaption></figure>
+
+</div>
+
 ## Steps to Sketching
 
 * **3 Minutes:** Grab paper, pens, markers, and pencils. No computers in sight.
