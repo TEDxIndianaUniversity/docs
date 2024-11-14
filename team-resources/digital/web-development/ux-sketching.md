@@ -10,7 +10,7 @@ Rather than wasting a lot of time coding, recoding, and then recoding a site wit
 
 <div data-full-width="false">
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="368"><figcaption><p>An example of UX Sketching</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="368"><figcaption><p>An example of UX Sketching</p></figcaption></figure>
 
 </div>
 
