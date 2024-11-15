@@ -8,6 +8,10 @@ icon: ruler-combined
 Failure to follow these guideline may cause us to lose our license. Please use our TEDxIndianaUniversity logo and the non-related TED and TEDx logos cautiously.
 {% endhint %}
 
+{% hint style="info" %}
+TEDxIndianaUniversity Members can access our official logos [_**via our Teams files**_](https://indiana.sharepoint.com/:f:/r/sites/O365-TEDxI/Shared%20Documents/Production/Design%20Standards?csf=1\&web=1\&e=OgbP4B).
+{% endhint %}
+
 
 
 ## TEDx Logo
