@@ -10,7 +10,7 @@
   * [⁉️ Troubleshooting GitBook's Entra ID Authentication](member-resources/troubleshooting-gitbooks-entra-id-authentication.md)
 * [⚡ Team Resources](team-resources/README.md)
   * [🎟️ Marketing & Design](team-resources/marketing-and-design/README.md)
-    * [Logo Guideline](team-resources/marketing-and-design/logo-guideline.md)
+    * [Logo Guidelines](team-resources/marketing-and-design/logo-guidelines.md)
     * [📤 TEDx & School Emailing LIsts](team-resources/marketing-and-design/tedx-and-school-emailing-lists/README.md)
       * [✅ Pre-Send Checklist!](team-resources/marketing-and-design/tedx-and-school-emailing-lists/pre-send-checklist.md)
       * [📰 IU School Newsletters](team-resources/marketing-and-design/tedx-and-school-emailing-lists/iu-school-newsletters.md)

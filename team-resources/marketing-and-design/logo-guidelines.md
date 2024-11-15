@@ -2,19 +2,19 @@
 icon: ruler-combined
 ---
 
-# Logo Guideline
+# Logo Guidelines
 
 {% hint style="danger" %}
 Failure to follow these guideline may cause us to lose our license. Please use our TEDxIndianaUniversity logo and the non-related TED and TEDx logos cautiously.
 {% endhint %}
 
-{% hint style="info" %}
-TEDxIndianaUniversity Members can access our official logos [_**via our Teams files**_](https://indiana.sharepoint.com/:f:/r/sites/O365-TEDxI/Shared%20Documents/Production/Design%20Standards?csf=1\&web=1\&e=OgbP4B).
-{% endhint %}
-
 
 
 ## TEDx Logo
+
+{% hint style="info" %}
+TEDxIndianaUniversity Members can access our official logos [_**via our Teams files**_](https://indiana.sharepoint.com/:f:/r/sites/O365-TEDxI/Shared%20Documents/Production/Design%20Standards?csf=1\&web=1\&e=OgbP4B).
+{% endhint %}
 
 **Teams are no longer required to include the tagline "x=independently organized TED event" in event logos.** You’ll use your TEDx logo throughout every part of your event: on your website(s), social media, and all event communications, materials and signs. The TEDx logo is different from the TED logo, as it contains the “x” at the end as well as the unique location-based name of your event.\
 
@@ -32,6 +32,10 @@ Your TEDx logo must appear on your website, all outbound communications with spe
 * The updated logo guidelines are mandatory for new series first licensed on or after January 1, 2023. However, TEDx organizers with event series first licensed before 2023 have the option to maintain their previous logo or use the updated guidelines.
 
 ### Font, Colour, and Visual Spec
+
+{% hint style="info" %}
+Download the Inter font family from the [_**Google Fonts webpage**_](https://fonts.google.com/specimen/Inter?query=inter).
+{% endhint %}
 
 * **Font:** The typeface Helvetica is an integral part of our visual identity, and it comes pre-installed on most computers. If you do not have access to Helvetica, you can use Inter Light, which is a nearly identical open-source font.\
   If you have a different version of Helvetica (Helvetica Neue, for example), use the Regular weight of your version.
