@@ -1,2 +1,0 @@
-# 📤 TEDx & School Emailing LIsts
-
