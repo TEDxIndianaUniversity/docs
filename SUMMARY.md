@@ -27,6 +27,7 @@
     * [🔗 Web Development](team-resources/digital/web-development/README.md)
       * [UX Sketching](team-resources/digital/web-development/ux-sketching.md)
       * [Getting Started with Wix Studio](team-resources/digital/web-development/getting-started-with-wix-studio.md)
+      * [Getting Started with CSS](team-resources/digital/web-development/getting-started-with-css.md)
       * [TEDx Anagram (User Interface)](team-resources/digital/web-development/tedx-anagram-user-interface.md)
     * [🔓 Data Compliance](team-resources/digital/data-compliance.md)
     * [📽️ Videography](team-resources/digital/videography/README.md)
