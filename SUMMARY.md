@@ -8,6 +8,8 @@
   * [📅 Member Calendar](https://kb.tedxiu.com/i/technical-production/onboarding-new-members/internal-calendar)
   * [💅 Hosting a Salon](member-resources/hosting-a-salon.md)
   * [⁉️ Troubleshooting GitBook's Entra ID Authentication](member-resources/troubleshooting-gitbooks-entra-id-authentication.md)
+* [🏫 Campus Resources](campus-resources/README.md)
+  * [🏁 Rentals & Checkout](campus-resources/rentals-and-checkout.md)
 * [⚡ Team Resources](team-resources/README.md)
   * [🎟️ Marketing & Design](team-resources/marketing-and-design/README.md)
     * [Logo Guidelines](team-resources/marketing-and-design/logo-guidelines.md)
