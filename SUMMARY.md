@@ -3,7 +3,7 @@
 * [👋 Welcome to our Knowledge Base!](README.md)
 * [⁉️ About TEDx](about-tedx/README.md)
   * [💜 Get Involved!](about-tedx/get-involved.md)
-* [✅ Event Prep Steps](event-prep-steps.md)
+* [✅ Event Prep Checklist](event-prep-checklist.md)
 * [🧙 Member Resources](member-resources/README.md)
   * [👥 Passwords](member-resources/passwords.md)
   * [📅 Member Calendar](https://kb.tedxiu.com/i/technical-production/onboarding-new-members/internal-calendar)

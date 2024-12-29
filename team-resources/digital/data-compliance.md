@@ -2,7 +2,7 @@
 
 ## Overview
 
-Both from an ethical standpoint and a compliance/policy standpoint, we are obliged to ensure that we handle data in an appropriate manner. The way in which we handle data — including where it's stored, how it's stored, whom it's shared with, and how long it's retained — depends on the data type, as listed below. In the following sections, PII refers to _Personally Identifiable Information_, such as emails, names, addresses, etc_._
+Both from an ethical standpoint and a compliance/policy standpoint, we are obliged to ensure that we handle data in an appropriate manner. The way in which we handle data — including where it's stored, how it's stored, whom it's shared with, and how long it's retained — depends on the data type, as listed below. In the following sections, PII refers to _Personally Identifiable Information_, such as emails, names, addresses, et&#x63;_._
 
 ## Jurisdiction
 
