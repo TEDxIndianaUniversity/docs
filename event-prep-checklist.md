@@ -14,6 +14,7 @@
       &#x20;
 5. Request a BeInvolved update, website update, and ticketing link from Technical Production [by posting in the Production Channel](https://teams.microsoft.com/l/channel/19%3A2720a2c80e8e408284aac139f0a740d0%40thread.tacv2/Production?groupId=13a3570e-1587-4b29-9596-18efe1cf3500\&tenantId=1113be34-aed1-4d00-ab4b-cdd02510be91).&#x20;
    1. Include date, time, location, and a description of the event. Consider that Production will need Marketing's graphics for BeInvolved/the website.... and Marketing will need Production's ticketing link. Work in advance on this one, too.
-   2. Work with Technical Production if you'd like an email blast to our emailing list.\
+   2. Inform Technical Production of any audio, presentation, video recording, live streaming, or stage design needs for your event.
+   3. Work with Technical Production if you'd like an email blast to our emailing list\
       &#x20;
 6. Tell Membership and Engagement to promote your event at tabling and installations by posting in the [Membership](https://teams.microsoft.com/l/channel/19%3A8f7fc616d4204a53984126c1a68a71e5%40thread.tacv2/Membership?groupId=13a3570e-1587-4b29-9596-18efe1cf3500\&tenantId=1113be34-aed1-4d00-ab4b-cdd02510be91) and [Engagement Channels](https://teams.microsoft.com/l/channel/19%3Add0cca6bcb454b4a96fae0a2ddec2932%40thread.tacv2/Engagement?groupId=13a3570e-1587-4b29-9596-18efe1cf3500\&tenantId=1113be34-aed1-4d00-ab4b-cdd02510be91), respectively.&#x20;
