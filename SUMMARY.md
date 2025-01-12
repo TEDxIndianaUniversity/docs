@@ -27,6 +27,7 @@
       * [🔨 Where to Make Staging](team-resources/theatrical/staging/where-to-make-staging.md)
     * [📹 Videography](team-resources/theatrical/videography.md)
     * [📽️ Projection Mappping](team-resources/theatrical/projection-mappping.md)
+    * [🤝 Lobby & Social Spaces](team-resources/theatrical/lobby-and-social-spaces.md)
   * [💻 Digital](team-resources/digital/README.md)
     * [🔗 Web Development](team-resources/digital/web-development/README.md)
       * [UX Sketching](team-resources/digital/web-development/ux-sketching.md)
