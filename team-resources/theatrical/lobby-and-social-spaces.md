@@ -40,7 +40,11 @@ Before, during, and after the conference, people will likely be utilising the ve
 
 ## Resources
 
+Recommendations from TED:
+
 {% embed url="https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/venue-spaces/social-areas" %}
 
+BCT Venue Plot for Planning:
 
+{% file src="../../.gitbook/assets/BCT_Venue_Diagram.pdf" %}
 
