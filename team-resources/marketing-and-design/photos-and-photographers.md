@@ -20,6 +20,10 @@ Visit the[ Luddy Bloomington Smugmug](https://luddybloomington.smugmug.com/) to 
 
 Tony Vasquez (did TEDxBloomington): [https://www.tonyvasquez.net/](https://www.tonyvasquez.net/)
 
+Luddy Photographers: [https://intranet.luddy.indiana.edu/marcom/index.html](https://intranet.luddy.indiana.edu/marcom/index.html)
+
+IU Communications Photos Request: [https://ucm.iu.edu/internal/visuals-request.html](https://ucm.iu.edu/internal/visuals-request.html)
+
 
 
 
