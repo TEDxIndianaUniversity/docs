@@ -15,7 +15,7 @@
 
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Fill out all the fields except for "Project Code" and "Organization Reference Id." Note the account should be `{ACCOUNT NUMBER} TEDX BL-INAD SICE SOA` and you should upload the receipt in the "Attachment" section
+5. Fill out all the fields except for "Project Code" and "Organization Reference Id." Note the account should be `{ACCOUNT NUMBER} TEDX BL-INAD SICE SOA` and you should upload the receipt in the "Attachment" section
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
