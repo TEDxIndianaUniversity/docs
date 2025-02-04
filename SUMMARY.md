@@ -65,6 +65,7 @@
     * [🎭 BCT (Buskirk-Chumley Theatre)](team-resources/finance/bct-buskirk-chumley-theatre.md)
     * [👋 Team Considerations](team-resources/finance/team-considerations.md)
     * [🤡 Miscellaneous](team-resources/finance/miscellaneous.md)
+    * [How to Reimburse in Chrome River](team-resources/finance/how-to-reimburse-in-chrome-river.md)
   * [🥳 Membership](team-resources/membership.md)
   * [😎 Engagement](team-resources/engagement.md)
   * [Page](team-resources/page.md)

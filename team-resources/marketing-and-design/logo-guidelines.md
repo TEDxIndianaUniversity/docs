@@ -23,7 +23,7 @@ TEDxIndianaUniversity Members can access our official logos [_**via our Teams fi
 
 * **Never use the TED or TEDx logos!** Only **TEDxIndianaUniversity** may be used.\
   \
-  ![](<../../.gitbook/assets/image (3).png>)\
+  ![](<../../.gitbook/assets/image (3) (1).png>)\
   ![](<../../.gitbook/assets/image (5).png>)\
 
 
@@ -54,7 +54,7 @@ Download the Inter font family from the [_**Google Fonts webpage**_](https://fon
 Only use a solid white or black background.\
 
 
-![Example logos: Background color](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/912/original/bw\_backgrounds.png?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
+![Example logos: Background color](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/912/original/bw_backgrounds.png?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
 
 ### Clear space <a href="#h3--clear-space" id="h3--clear-space"></a>
 
@@ -69,29 +69,29 @@ To ensure that your TEDx event logo is presented in the best possible manner, a 
 
 Do not set the place name in all caps and keep it the same size as "TEDx."
 
-![Example of incorrect logo: name in all caps](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/906/original/dontdo\_caps.jpg?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
+![Example of incorrect logo: name in all caps](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/906/original/dontdo_caps.jpg?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
 
 
 
 Do not change the color of TEDx or the “x” in TEDx. Do not write the place name in colors other than black or white.
 
-![Example of incorrect logo: text colors](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/907/original/dontdo\_textcolor.jpg?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
+![Example of incorrect logo: text colors](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/907/original/dontdo_textcolor.jpg?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
 
 
 
 Do not place your TEDx event's logo on colors other than black or white or on photographic, patterned or illustrated backgrounds.
 
-![Example of incorrect logo: background colors](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/908/original/dontdo\_background.jpg?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
+![Example of incorrect logo: background colors](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/908/original/dontdo_background.jpg?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
 
 
 
 Only use 2 or more lines when necessary.
 
-![Example of incorrect logo: template](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/909/original/dontdo\_lines.jpg?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
+![Example of incorrect logo: template](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/909/original/dontdo_lines.jpg?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
 
 
 
 Do not create your TEDx event's logo in a typeface other than Helvetica or Inter Light.
 
-![Example of incorrect logo: typeface](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/910/original/dontdo\_font.jpg?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
+![Example of incorrect logo: typeface](https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/009/910/original/dontdo_font.jpg?u%5Br%5D=2\&u%5Bs%5D=0.5\&u%5Ba%5D=0.8\&u%5Bt%5D=0.03\&quality=82\&w=1400)
 
