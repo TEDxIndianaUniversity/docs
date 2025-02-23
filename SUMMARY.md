@@ -17,7 +17,7 @@
     * [📸 Photos & Photographers](team-resources/marketing-and-design/photos-and-photographers.md)
     * [🎨 Graphic Design & Video Editing](team-resources/marketing-and-design/graphic-design-and-video-editing.md)
     * [📧 Emailing Lists](https://kb.tedxiu.com/i/emailing-list)
-    * [📅 Event Calendars](team-resources/marketing-and-design/event-calendars.md)
+    * [📅 Event Calendars & News](team-resources/marketing-and-design/event-calendars-and-news.md)
     * [📺 IU Digital Signage](team-resources/marketing-and-design/iu-digital-signage.md)
     * [🚌 Bus Ads](team-resources/marketing-and-design/bus-ads.md)
   * [🎭 Theatrical](team-resources/theatrical/README.md)
