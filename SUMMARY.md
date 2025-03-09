@@ -5,6 +5,7 @@
   * [💜 Get Involved!](about-tedx/get-involved.md)
 * [✅ Event Prep Checklist](event-prep-checklist.md)
 * [🧙 Member Resources](member-resources/README.md)
+  * [💜 Microsoft Teams, Files](member-resources/microsoft-teams-files.md)
   * [👥 Passwords](member-resources/passwords.md)
   * [📅 Member Calendar](https://kb.tedxiu.com/i/technical-production/onboarding-new-members/internal-calendar)
   * [💅 Hosting a Salon](member-resources/hosting-a-salon.md)
