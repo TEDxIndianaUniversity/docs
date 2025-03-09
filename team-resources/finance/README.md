@@ -1,4 +1,4 @@
-# 💲 Finance
+# 🤑 Finance
 
 The Director of Finance is the primary person responsible for acquiring the funding necessary to put on the annual conference, support the activities of all the other teams, be the "middleman" between different directors and Karen (our faculty advisor) and the p-card, and create a budget and track expenses.
 

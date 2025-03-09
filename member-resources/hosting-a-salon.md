@@ -20,9 +20,9 @@ You should also be sure to follow [TEDx Guidelines](https://www.ted.com/particip
 
 ***
 
-## Reasons for Salon Events
+## Salon Format
 
-* **The discussion:** A critical element of salon is lively discussions, allowing attendees to actively participate in the event. With much smaller audiences than a standard TEDx event, salons bring attendees together in more intimate spaces, and with more chances to get know and exchange ideas as with each other.
+* **The discussion:** A critical element of salon is lively discussions _**relevant to the community**_, allowing attendees to actively participate in the event. With much smaller audiences than a standard TEDx event, salons bring attendees together in more intimate spaces, and with more chances to get know and exchange ideas as with each other.
 * **The single subject:** Having the ability to focus on only one subject creates focused audience and atmosphere.
 * **The choice of format:** Salon events range anywhere from dinner party settings to mini standard TEDx events, and anything in between. It’s up to organizers to decide what size and format is best for their community.
 * **Frequency:** Salons are recurring events that offer organizers an exciting way to stay engaged with their communities. Salons can happen between larger standard events, providing a regular touch point for you and your community.
