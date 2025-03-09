@@ -21,7 +21,7 @@ Thumbnails are quick-and-dirty sketches that help stage designers express their 
 
 Here's some resources to get you started:
 
-<table data-view="cards"><thead><tr><th></th><th data-type="files"></th><th></th></tr></thead><tbody><tr><td><strong>Buskirk-Chumley Tech Specs</strong></td><td><a href="../../.gitbook/assets/Technical-Specifications.pdf">Technical-Specifications.pdf</a></td><td><em>BCT stage dimensions and more</em></td></tr><tr><td><strong>Proscenium Thumbnail Template</strong></td><td><a href="../../.gitbook/assets/PresceniumThumbnailTemplate.pdf">PresceniumThumbnailTemplate.pdf</a></td><td><em>Use this for "traditional" proscenium theatre layouts</em></td></tr><tr><td><strong>Thrust Thumbnail Template</strong></td><td><a href="../../.gitbook/assets/ThrustThumbnailTemplate.pdf">ThrustThumbnailTemplate.pdf</a></td><td><em>Use this for thrust theatre layouts</em></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="files"></th><th></th></tr></thead><tbody><tr><td><strong>Buskirk-Chumley Tech Specs</strong></td><td><a href="../../../.gitbook/assets/Technical-Specifications.pdf">Technical-Specifications.pdf</a></td><td><em>BCT stage dimensions and more</em></td></tr><tr><td><strong>Proscenium Thumbnail Template</strong></td><td><a href="../../../.gitbook/assets/PresceniumThumbnailTemplate.pdf">PresceniumThumbnailTemplate.pdf</a></td><td><em>Use this for "traditional" proscenium theatre layouts</em></td></tr><tr><td><strong>Thrust Thumbnail Template</strong></td><td><a href="../../../.gitbook/assets/ThrustThumbnailTemplate.pdf">ThrustThumbnailTemplate.pdf</a></td><td><em>Use this for thrust theatre layouts</em></td></tr></tbody></table>
 
 ## Next Steps
 

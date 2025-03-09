@@ -1,7 +1,7 @@
 # 👥 Passwords
 
 {% hint style="info" %}
-You must be a TEDxIndianaUniversity member to access the links in this article. If you're getting an error when signing in, visit [Troubleshooting GitBook's Entra ID Authentication](troubleshooting-gitbooks-entra-id-authentication.md)
+You must be a TEDxIndianaUniversity member to access the links in this article. If you're getting an error when signing in, visit [Troubleshooting GitBook's Entra ID Authentication](../team-resources/digital/troubleshooting-gitbooks-entra-id-authentication.md)
 {% endhint %}
 
 To access different TEDxIndianaUniversity accounts and websites, you'll either need to...
