@@ -2,19 +2,19 @@
 icon: ruler-combined
 ---
 
-# Logo Guidelines
+# ❌ TEDx Logos & Templates
 
 {% hint style="danger" %}
 Failure to follow these guideline may cause us to lose our license. Please use our TEDxIndianaUniversity logo and the non-related TED and TEDx logos cautiously.
 {% endhint %}
 
+## Download and Use our Logos
 
+TEDxIndianaUniversity Members can access our official logos in [**Microsoft Teams > Marketing Channel > Files > Logos & Design Standards**](https://indiana.sharepoint.com/:f:/r/sites/O365-TEDxI/Shared%20Documents/Marketing/Logos%20%26%20Design%20Standards?csf=1\&web=1\&e=Lw5SPr).
+
+***
 
 ## TEDx Logo
-
-{% hint style="info" %}
-TEDxIndianaUniversity Members can access our official logos [_**via our Teams files**_](https://indiana.sharepoint.com/:f:/r/sites/O365-TEDxI/Shared%20Documents/Production/Design%20Standards?csf=1\&web=1\&e=OgbP4B).
-{% endhint %}
 
 **Teams are no longer required to include the tagline "x=independently organized TED event" in event logos.** You’ll use your TEDx logo throughout every part of your event: on your website(s), social media, and all event communications, materials and signs. The TEDx logo is different from the TED logo, as it contains the “x” at the end as well as the unique location-based name of your event.\
 
