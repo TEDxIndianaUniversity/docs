@@ -6,7 +6,7 @@ icon: youtube
 
 ## Using an App&#x20;
 
-I prefer using [Stacher7](https://s7.stacher.io/), which is an open source GUI application built on top of yt-dlp, another open source project well known for allowing video and audio archiving.
+I prefer using [Stacher7](https://s7.stacher.io/), which is a cross-platform GUI application built on top of yt-dlp, an open source project well known for allowing video and audio archiving.
 
 Because Stacher7 is built on top of yt-dlp and ffmpeg packages, you may be prompted to install those command line packages.&#x20;
 
