@@ -41,9 +41,9 @@ Because Stacher7 is built on top of yt-dlp and ffmpeg packages, you may be promp
 
 If you prefer to use Terminal, you can download and [how to install yt-dlp and ffmpeg manually (archived version of article)](https://web.archive.org/web/20250304135513/https://www.spacebar.news/how-to-install-yt-dlp/#expand)
 
-If you're using this method, I assume you can read the documentation [over at Github](https://github.com/yt-dlp/yt-dlp/) and have used a command line utility before.
+I use macOS, so I installed yt-dlp using the [Homebrew package manager](https://formulae.brew.sh/formula/yt-dlp#default). It's also available for  package managers on other operating systems (e.g. Chocolatey and apt). You can also use a direct download if you'd prefer to not use a package manager (idk why you would tho).
 
-I use macOS, so I installed yt-dlp using the [Homebrew package manager](https://formulae.brew.sh/formula/yt-dlp#default). It's available for other package managers for other operating systems or as a [direct download from Github](https://github.com/yt-dlp/yt-dlp/?tab=readme-ov-file#installation).
+If you're using this method, I assume you can read the documentation [over at Github](https://github.com/yt-dlp/yt-dlp/) and have used a command line utility before.
 
 Here's two quick commands to get you started:
 
