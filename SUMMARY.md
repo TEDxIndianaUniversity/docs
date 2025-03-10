@@ -39,6 +39,7 @@
       * [TEDx Anagram (User Interface)](team-resources/digital/web-development/tedx-anagram-user-interface.md)
     * [🔓 Data Compliance](team-resources/digital/data-compliance.md)
     * [⁉️ Troubleshooting GitBook's Entra ID Authentication](team-resources/digital/troubleshooting-gitbooks-entra-id-authentication.md)
+    * [Downloading YouTube Videos](team-resources/digital/downloading-youtube-videos.md)
   * [💡 Curation](team-resources/curation/README.md)
     * [✔️ Commitment Expectations](team-resources/curation/commitment-expectations.md)
     * [🤝 Onboarding](team-resources/curation/onboarding/README.md)
