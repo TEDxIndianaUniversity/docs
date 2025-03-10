@@ -39,7 +39,7 @@ Because Stacher7 is built on top of yt-dlp and ffmpeg packages, you may be promp
 
 ## Using the Command Line
 
-If you prefer to use Terminal, you can download [yt-dlp from Github](https://github.com/yt-dlp/yt-dlp/) and [ffmpeg from ffmpeg.org](https://ffmpeg.org/).&#x20;
+If you prefer to use Terminal, you can download and [how to install yt-dlp and ffmpeg manually (archived version of article)](https://web.archive.org/web/20250304135513/https://www.spacebar.news/how-to-install-yt-dlp/#expand)
 
 If you're using this method, I assume you can read the documentation [over at Github](https://github.com/yt-dlp/yt-dlp/) and have used a command line utility before.
 
