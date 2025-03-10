@@ -1,7 +1,7 @@
 # ✅ Event Prep Checklist
 
 {% hint style="info" %}
-Hosting a Salon? Check out [the Salon Guide here](member-resources/hosting-a-salon.md)
+Hosting a Salon? Check out [the Salon Guide here](member-resources/hosting-a-salon/)
 {% endhint %}
 
 1. Decide a date and time for the event. _**Be sure it's 3+ weeks out from now.**_\

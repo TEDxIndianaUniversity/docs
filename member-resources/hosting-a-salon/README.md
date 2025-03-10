@@ -12,9 +12,7 @@ At a Salon, attendees watch TED Talks, sometimes host a few speakers (though itâ
 
 ## Salon Expectations
 
-What is expected of you at a Salon? Here's all your questions answered.... possibly by more questions. The goal is that you should be able to answer most of them:
-
-{% file src="../.gitbook/assets/Salon Expectations.pdf" %}
+What is expected of you at a Salon? [Here's all your questions answered](salon-expectations.md).... possibly by more questions. The goal is that you should be able to answer most of them.
 
 You should also be sure to follow [TEDx Guidelines](https://www.ted.com/participate/organize-a-local-tedx-event) during whatever event you may hosting.
 
