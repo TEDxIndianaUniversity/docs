@@ -1,7 +1,3 @@
----
-icon: ruler-combined
----
-
 # ❌ TEDx Logos & Templates
 
 {% hint style="danger" %}
