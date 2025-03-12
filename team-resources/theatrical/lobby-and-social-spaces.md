@@ -1,5 +1,7 @@
 # 🤝 Lobby & Social Spaces
 
+{% embed url="https://conferences.ted.com/ted2025/experience" %}
+
 ## What to Consider
 
 Before, during, and after the conference, people will likely be utilising the venue's additional space! There are a number of things to consider:
