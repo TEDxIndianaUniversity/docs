@@ -10,6 +10,10 @@ Eskenazi has a number of fabrication labs available including laser system, CNC,
 
 {% embed url="https://eskenazi.indiana.edu/about/facilities/fabrication-labs/index.html" %}
 
+{% embed url="https://eskenazi.indiana.edu/about/facilities/fabrication-labs/wood-and-metal-shop/index.html" %}
+
+Training is required to use the space, but they are available to all University-affiliated peeps.
+
 ## All Makerspaces
 
 {% embed url="https://iumakes.indiana.edu/" %}
