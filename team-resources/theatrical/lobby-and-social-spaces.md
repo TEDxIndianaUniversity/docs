@@ -2,6 +2,8 @@
 
 {% embed url="https://conferences.ted.com/ted2025/experience" %}
 
+{% embed url="https://www.linkedin.com/pulse/day-2-ted2025-how-create-more-transformative-spaces-ted-conferences-b6hfe" %}
+
 ## What to Consider
 
 Before, during, and after the conference, people will likely be utilising the venue's additional space! There are a number of things to consider:
