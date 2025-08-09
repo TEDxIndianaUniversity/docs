@@ -13,7 +13,7 @@ Looking for our main website? [Visit tedxiu.com](https://www.tedxiu.com) :)
 ## How do I use the wiki?
 
 * Visit other pages using the sidebar to the left and click the arrow to see subpages.
-* Search for a page or ask a question using the search bar in the upper right
+* Using the search bar, enter the name of a page or ask a question like, "How do I host a salon?"
 
 {% hint style="info" %}
 You can quickly jump to the search bar by pressing **⌘ + K** (macOS) or **Ctrl + K** (Windows)
