@@ -2,10 +2,6 @@
 
 This is where you'll find a plethora of information about TEDxIndianaUniversity, promoting not only generational knowledge but also _ideas worth spreading_!
 
-{% hint style="info" %}
-Looking for our main website? [Visit tedxiu.com](https://www.tedxiu.com) :)
-{% endhint %}
-
 ## Quick Links
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="26a1">⚡</span> Team Resources</td><td><a href=".gitbook/assets/IMG_3578.png">IMG_3578.png</a></td><td><a href="team-resources/">team-resources</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f9d9">🧙</span> Member Resources</td><td><a href=".gitbook/assets/758A6116.jpg">758A6116.jpg</a></td><td><a href="member-resources/">member-resources</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f3a4">🎤</span> Speaker Resources</td><td><a href=".gitbook/assets/_DSC1845-Enhanced-NR.jpg">_DSC1845-Enhanced-NR.jpg</a></td><td><a href="https://app.gitbook.com/o/7YXIdPMvc8dgE7MfEfpe/s/tCiaJkmdXjI1rcT80tcF/">Speaker Resources</a></td></tr></tbody></table>
