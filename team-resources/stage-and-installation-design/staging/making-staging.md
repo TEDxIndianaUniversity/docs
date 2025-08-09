@@ -1,10 +1,17 @@
-# 🔨 Where to Make Staging
+# 🔨 Making Staging
 
-## Luddy Makerspaces
+## Tips and How-Tos
+
+* [Building a Stage Flat](https://indiana.sharepoint.com/:b:/r/sites/O365-TEDxI/Shared%20Documents/Production/Stage%20and%20Venue/StockSceneryPart%202.pdf?csf=1\&web=1\&e=DdbPej) (Wall)
+* [Installing and Mudding Drywall](https://www.youtube.com/watch?v=McCZLfZipTg)
+
+## Where to Make Staging
+
+### Luddy Makerspaces
 
 <table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Reservation for Protolab 1 Room/Equipment </td><td><a href="https://www.supersaas.com/schedule/Luddy_Makerspaces/Protolab">https://www.supersaas.com/schedule/Luddy_Makerspaces/Protolab</a></td></tr><tr><td>Makerspace Training</td><td><a href="https://iu.instructure.com/courses/1767970">https://iu.instructure.com/courses/1767970</a></td></tr><tr><td>Large Wood Cutting Request</td><td><a href="https://makerspaces.luddy.indiana.edu/labs/protolab_2.html">https://makerspaces.luddy.indiana.edu/labs/protolab_2.html</a></td></tr></tbody></table>
 
-## Eskenazi Fabrication Labs
+### Eskenazi Fabrication Labs
 
 Eskenazi has a number of fabrication labs available including laser system, CNC, etc.
 
@@ -14,11 +21,11 @@ Eskenazi has a number of fabrication labs available including laser system, CNC,
 
 Training is required to use the space, but they are available to all University-affiliated peeps.
 
-## All Makerspaces
+### All Makerspaces
 
 {% embed url="https://iumakes.indiana.edu/" %}
 
-## IU Theatre Department
+### IU Theatre Department
 
 _They may or may not let you use the space, depending on their current productions_
 

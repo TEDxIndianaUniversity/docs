@@ -25,7 +25,7 @@
     * [🏠 Staging](team-resources/theatrical/staging/README.md)
       * [🤔 Ideate & Design Staging](team-resources/theatrical/staging/ideate-and-design-staging.md)
       * [🏛️ Making a Model](team-resources/theatrical/staging/making-a-model.md)
-      * [🔨 Where to Make Staging](team-resources/theatrical/staging/where-to-make-staging.md)
+      * [🔨 Making Staging](team-resources/stage-and-installation-design/staging/making-staging.md)
     * [📽️ Projection Mappping](team-resources/theatrical/projection-mappping.md)
     * [🤝 Lobby & Social Spaces](team-resources/theatrical/lobby-and-social-spaces.md)
     * [📄 BCT Tech Form](team-resources/stage-and-installation-design/bct-tech-form.md)
