@@ -8,7 +8,7 @@ Looking for our main website? [Visit tedxiu.com](https://www.tedxiu.com) :)
 
 ## Quick Links
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="team-resources/">team-resources</a></td></tr><tr><td><a href="member-resources/">member-resources</a></td></tr><tr><td><a href="https://app.gitbook.com/o/7YXIdPMvc8dgE7MfEfpe/s/tCiaJkmdXjI1rcT80tcF/">Speaker Resources</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Team Resources</td><td><a href=".gitbook/assets/IMG_3578.png">IMG_3578.png</a></td><td><a href="team-resources/">team-resources</a></td></tr><tr><td>Member Resources</td><td><a href=".gitbook/assets/TEDx 18 - Staff  - 0 7.jpg">TEDx 18 - Staff  - 0 7.jpg</a></td><td><a href="member-resources/">member-resources</a></td></tr><tr><td>Speaker Resources</td><td><a href=".gitbook/assets/_DSC1845-Enhanced-NR.jpg">_DSC1845-Enhanced-NR.jpg</a></td><td><a href="https://app.gitbook.com/o/7YXIdPMvc8dgE7MfEfpe/s/tCiaJkmdXjI1rcT80tcF/">Speaker Resources</a></td></tr></tbody></table>
 
 ## Team Resources
 
